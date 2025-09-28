@@ -1,0 +1,11 @@
+Python is an object-oriented language, allowing you to structure your code using classes and objects for better organization and reusability.
+
+Provides a clear structure to programs
+Makes code easier to maintain, reuse, and debug
+Helps keep your code DRY (Don't Repeat Yourself)
+Allows you to build reusable applications with less code
+
+A class defines what an object should look like, and an object is created based on that class
+
+Use the __init__() method to assign values to object properties, or other operations that are necessary to do when the object is being created
+
