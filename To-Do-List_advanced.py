@@ -74,3 +74,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # Run on its own as a complete program.
+    
